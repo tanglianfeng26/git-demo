@@ -54,7 +54,7 @@
         <div class="row">
           <div class="text-center c-t w-100">
             <p class="c-h">中国.广东省.深圳市.龙华新区.和平路.龙胜商业大厦i区</p>
-            <p>粤ICP备2020098349号 版权归禾顺文化有限公司所有</p>
+            <a class="a-footer" href="https://beian.miit.gov.cn/#/Integrated/index"><p>粤ICP备2020098349号 版权归禾顺文化有限公司所有</p></a>
           </div>
         </div>
       </div>
@@ -130,5 +130,9 @@ ul>li:hover{
 }
 ul>li:hover a{
   color: rgb(230,33,41)!important;
+}
+.a-footer{
+  color: #505050;
+  font-weight: 600;
 }
 </style>
